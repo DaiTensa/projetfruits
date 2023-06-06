@@ -22,7 +22,7 @@ def get_requirment(file_path: str)->List[str]:
             requierments.remove(HYPEN_E_DOT)
     return requierments
 
-
+# Test
 
 setup(
 name= 'scoring',
